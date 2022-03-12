@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cosmolabs-ru
+- 👋 Hi, I’m @cosmolabs-ru ☮️ No to war 
 - 👀 I’m interested in embedded development, digital schematics, PCB engineering, general engineering, general programming, DIY
-- 🌱 I’m currently learning Altera Cyclone IV FPGA
+- 🌱 I’m currently learning Lora Mesh, implementing Disaster Radio in MicroPython
 - 📫 How to reach me -tg @cosmolabs_avia 
 
 <!---
